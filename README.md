@@ -1,7 +1,7 @@
 
 # Real-Estate-Price-Prediction
 
-This data science project series walks through step by step process of how to build a real estate price prediction machine learning model .
+This data science project walks through step by step process of how to build a real estate price prediction machine learning model .
 We will first start using sklearn and linear regression for banglore home prices dataset from kaggle.com. 
 It allows user to enter locality, home square ft area, bedrooms, bhk size and it will retrieve the predicted price.
 During model building we will cover almost all data science concepts such as data load and cleaning, outlier detection and removal,
